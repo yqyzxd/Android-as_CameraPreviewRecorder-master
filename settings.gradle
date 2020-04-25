@@ -1,0 +1,2 @@
+rootProject.name='Android-as_CameraPreviewRecorder-master'
+include ':app'
